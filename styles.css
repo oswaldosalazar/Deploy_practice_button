@@ -14,8 +14,10 @@ h2 {
   color: white;
 }
 button {
-  margin-top: 5em;
   font-family: serif;
   background-color: pink;
   font-size: 2em;
+}
+main {
+  margin-top: 15em;
 }
